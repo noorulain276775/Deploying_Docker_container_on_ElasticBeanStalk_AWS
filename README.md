@@ -1,4 +1,4 @@
-# Deploying_Docker_container_on_ElasticBeanStalk_AWS
+# Deploying Simple Application with Simple DockerFile on AWS EBS for testing purposes.
 
 commands
 1. docker build .
